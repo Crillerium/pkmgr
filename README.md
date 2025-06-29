@@ -1,2 +1,2 @@
 # pkmgr
-Personal Knowledge Manager on Flutter
+Private Keys Manager on Flutter
